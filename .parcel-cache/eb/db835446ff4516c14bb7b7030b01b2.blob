@@ -1,0 +1,3 @@
+const n = 1
+demo.innerHTML = n
+console.log(n)

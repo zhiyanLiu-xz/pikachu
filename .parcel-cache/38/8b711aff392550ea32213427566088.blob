@@ -1,0 +1,12 @@
+.skin{
+   position: relative;
+}
+.san{
+    border: 1px solid red;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    left: 50%;
+    top: 200px;
+
+}

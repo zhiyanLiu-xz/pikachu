@@ -1,0 +1,8 @@
+const string = '大家好，我是刘芷言'
+let n = 1
+demo.innerHTML = string.substr(0,n)//子字符串
+
+setInterval(()=>{
+    n += 1
+    demo.innerHTML = string.substr(0,n)
+},300)

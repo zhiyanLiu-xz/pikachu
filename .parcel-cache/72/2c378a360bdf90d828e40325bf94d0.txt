@@ -1,0 +1,21 @@
+20
+56C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\style.css132651125017572547 0
+47C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist132651305873735981 1
+53C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\images132650093363426571 1
+46C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src132651084605592044 1
+57C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\index.html132650094151743998 0
+66C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\flash.a24e9de0.gif132651124306309152 0
+54C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\main.js132649935209818059 0
+63C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\images\flash.gif132650093363440000 0
+66C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.de60a1d7.css132650098247993306 0
+56C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\test.html132651163532056534 0
+58C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.html132650098247983463 0
+54C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\src\test.js132651305872259934 0
+65C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.01a1c8c0.js132649947750392581 0
+69C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.01a1c8c0.js.map132649947750621970 0
+65C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.bd78eeec.js132650098248003283 0
+69C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.bd78eeec.js.map132650098248142981 0
+64C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\test.15efcf68.js132651305873626284 0
+70C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\index.de60a1d7.css.map132650098248093026 0
+68C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\test.15efcf68.js.map132651305873706072 0
+57C:\Users\LENOVO\Desktop\qianduan\Pikachu-1\dist\test.html132651305873616407 0

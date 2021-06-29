@@ -1,0 +1,23 @@
+#demo2{
+            display: none;
+        }
+        #demo{
+            position: fixed;
+            height: 50vh;
+            top: 0;
+            left: 0;
+            width: 100%;
+            border: 1px solid red;
+            overflow-y: auto;
+        }
+        #demo::-webkit-scrollbar{
+            /* 隐藏滚动条 */
+            display: none;
+        }
+        #html{
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50vh;
+        }

@@ -1,0 +1,19 @@
+.skin{
+    /* 相对定位 */
+   position: relative;
+   
+}
+.san{
+    /* 三角形 */
+    border: 10px solid red;
+    border-color: red transparent green transparent;
+    border-bottom: none;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    left: 50%;
+    top: 200px;
+    /* 此时方块的左边线在中线，因此左移动方块长度一半居中 */
+    margin-left: -5px;
+
+}

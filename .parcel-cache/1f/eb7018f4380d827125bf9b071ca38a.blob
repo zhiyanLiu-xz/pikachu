@@ -1,0 +1,47 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+*::after,::before{box-sizing: border-box;}
+.skin{
+    /* 相对定位 */
+   position: relative;
+   
+}
+.san{
+    /* 三角形 */
+    border: 10px solid red;
+    border-color: red transparent green transparent;
+    border-bottom: none;
+    width: 0px;
+    height: 0px;
+    position: relative;
+    left: 50%;
+    top: 200px;
+    /* 此时方块的左边线在中线，因此左移动方块长度一半居中 */
+    margin-left: -10px;
+}
+.yuan{
+    /* 相对于三角形定位 */
+    position: absolute;
+    width: 20px;
+    height: 6px;
+    background: red;
+    top: -16px;
+    left: -10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.eye{
+    border:1px solid red;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    margin-left: -15px;
+}
+
+.eye.left{
+    transform: translateX(-100px);
+}
+.eye.right{
+    transform: translateX(100px);
+}

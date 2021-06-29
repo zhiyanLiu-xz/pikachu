@@ -1,0 +1,6 @@
+const n = 1
+demo.innerHTML = n
+
+setInterval(handler:()=>{
+    n += 1
+},timeout:300)

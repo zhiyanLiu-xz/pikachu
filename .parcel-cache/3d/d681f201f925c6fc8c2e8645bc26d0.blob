@@ -1,0 +1,14 @@
+const string = 'nihao'
+let n = 1
+demo.innerText = string.substr(0,n)//子字符串
+demo2.innerHTML = string.substr(0,n)
+
+let id = setInterval(()=>{
+    n += 1
+    if(n>string.length){
+        window.clearInterval(id)
+        return//后面的代码就不执行了
+    }
+    demo.innerText = string.substr(0,n)
+    demo2.innerHTML = string.substr(0,n)
+},300)
